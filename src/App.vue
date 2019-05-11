@@ -7,7 +7,7 @@
     <router-view />
   </div>
 </template>
-cd
+
 <style lang="scss" scoped>
 
 </style>
